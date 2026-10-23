@@ -1,0 +1,13 @@
+grep=findstr $*
+fnd=findstr $*
+
+clear=cls
+clr=cls
+
+home=cd %USERPROFILE%
+pwd=cd
+up=cd ..
+..=cd ..
+...=cd ..\..
+
+alias=type %USERPROFILE%\.cmd_aliases
